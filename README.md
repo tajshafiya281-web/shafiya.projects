@@ -1,2 +1,2 @@
 # shafiya.projects
-student-management system
+expense tracker 
